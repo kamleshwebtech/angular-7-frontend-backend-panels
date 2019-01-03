@@ -1,4 +1,4 @@
-# Frontendbackendpanels
+# Angular 7 - How to separate front end and back end panels
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
 
@@ -25,4 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-# angular-7-frontend-backend-panels
+
+# Output
+
+### Front Application: 
+
+![alt text](https://raw.githubusercontent.com/kamleshwebtech/angular-7-frontend-backend-panels/master/screenshot-front-application.png)
+
+### Back End Panel
+
+![alt text](https://raw.githubusercontent.com/kamleshwebtech/angular-7-frontend-backend-panels/master/screenshot-back-end-panel.png)
